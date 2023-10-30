@@ -342,7 +342,10 @@ footer a:hover {
     /* border: 1px solid black; */
     text-align: center;
 }
-
+.products-section table .table-head th{
+    background-color: var(--black);
+    color: var(--cream);
+}
 .products-section .products {
     display: flex;
     flex-direction: column;
