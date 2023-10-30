@@ -7,4 +7,4 @@ This website is a dummy version of the actual website and lacks the form submiss
 
 ## Live demo
 
- - [Awesome Readme Templates](https://mdxr.github.io/shifa/)
+ - [Live demo : ](https://mdxr.github.io/shifa/)
