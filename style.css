@@ -550,13 +550,13 @@ table tr:nth-child(1) {
         top: 0;
         left: 0;
         background-color: var(--cream);
-        height: 100dvh;
+        height: 100vh;
         flex-direction: column;
         justify-content: center;
         transition: .2s linear;
     }
     .nav-links li a{
-        font-size: 31px;
+        font-size: 26px;
     }
     .ham-icon{
         display: unset;
